@@ -16,7 +16,7 @@ function preload(){
    // gif_createImg=createImg("PDown.gif");
     playerImg2=loadImage("PLeft.gif")
     //playerImg2_=createImg("Pleft.gif");
-    playerImg3=loadImage("PRight.gif");
+    playerImg3=loadImage("./PRight.gif");
     //playerImg3_=createImg("PRight.gif");
     //M1Img=createImg("M1.gif");
     M1Img_=loadImage("M1.gif")
